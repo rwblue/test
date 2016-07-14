@@ -1,0 +1,1 @@
+It could be optimize by using refresh datatable jquery and also strip out and sanitize the post data
